@@ -1,0 +1,12 @@
+.item .item-label {
+  display: inline-block;
+}
+.item .item-delete {
+  display: inline-block;
+  background-color: #dddddd;
+  padding: 5px;
+}.add-button {
+  display: inline-block;
+  background-color: #dddddd;
+  padding: 5px;
+}
